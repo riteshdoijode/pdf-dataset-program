@@ -1,4 +1,4 @@
-# 🧠 PDF Formula Extractor & Preprocessor
+# PDF Formula Extractor & Preprocessor
 
 This Python program processes PDF files to extract text content and detect mathematical formulas. It's designed to prepare high-quality, clean text chunks (including formulas) for training NLP or LLM models.
 
