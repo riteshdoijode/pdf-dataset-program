@@ -124,7 +124,3 @@ Feel free to contribute or open issues!
 ## 🧾 License
 
 MIT License — see [LICENSE](./LICENSE) for details.
-
----
-
-Would you like me to also generate the `requirements.txt` and `LICENSE` files?
